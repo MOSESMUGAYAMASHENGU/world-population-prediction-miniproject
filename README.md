@@ -48,9 +48,8 @@ world-population-prediction/
 
 👨‍💻 About Me
 
-I'm a Development Studies graduate upskilling in data science to create data-driven development solutions.
-This project is part of my learning journey in machine-learning, specifically the Regression Module.
+I'm a Development Studies graduate upskilling in data science to create data-driven development solutions. This project is part of my learning journey in machine-learning, specifically the Regression Module.
 
-**Connect with me on [LinkedIn](https://linkedin.com/in/moses-mashengu-)**
+Connect with me on www.linkedin.com/in/moses-mashengu-
 
 "Bridging development expertise with data science for impactful solutions"
