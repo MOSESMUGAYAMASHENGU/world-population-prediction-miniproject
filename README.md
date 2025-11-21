@@ -1,5 +1,3 @@
-Random Forest analysis of World Bank population data - Data Science for Development
-
 # 🌍 World Population Prediction using Random Forest Regression
 
 A machine learning implementation predicting population trends across income groups using Random Forest Regression.
@@ -40,16 +38,18 @@ pip install -r requirements.txt
 jupyter notebook notebooks/random_forest_population_analysis.ipynb
 
 📁 Project Structure
+text
+
 world-population-prediction/
 ├── notebooks/           # Jupyter notebook with full analysis
 ├── assets/             # Visualizations & results
 ├── requirements.txt    # Python dependencies
 └── README.md          # This file
 
-
 👨‍💻 About Me
 
-I'm a Development Studies graduate upskilling in data science to create data-driven development solutions. This project is part of my learning journey in machine-learning, specifically the Regression Module.
+I'm a Development Studies graduate upskilling in data science to create data-driven development solutions.
+This project is part of my learning journey in machine-learning, specifically the Regression Module.
 
 Connect with me on www.linkedin.com/in/moses-mashengu-
 
