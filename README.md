@@ -27,29 +27,33 @@ This project shows how data science can be applied to development challenges lik
 
 ## 🚀 Quick Start
 
-```bash
+\`\`\`bash
 # Clone this repository
-git clone https://github.com/MOSESMUGAYAMASHENGU/world-population-prediction.git
+git clone https://github.com/MOSESMUGAYAMASHENGU/world-population-prediction-miniproject.git
 
 # Install requirements
 pip install -r requirements.txt
 
 # Run the analysis
 jupyter notebook notebooks/random_forest_population_analysis.ipynb
+\`\`\`
 
-📁 Project Structure
-text
+## 📁 Project Structure
 
-world-population-prediction/
+\`\`\`
+world-population-prediction-miniproject/
 ├── notebooks/           # Jupyter notebook with full analysis
 ├── assets/             # Visualizations & results
 ├── requirements.txt    # Python dependencies
 └── README.md          # This file
+\`\`\`
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a Development Studies graduate upskilling in data science to create data-driven development solutions. This project is part of my learning journey in machine-learning, specifically the Regression Module.
 
-Connect with me on www.linkedin.com/in/moses-mashengu-
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/moses-mashengu-)**
 
-"Bridging development expertise with data science for impactful solutions"
+---
+
+*"Bridging development expertise with data science for impactful solutions"*
